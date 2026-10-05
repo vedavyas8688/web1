@@ -1,0 +1,56 @@
+@font-face {
+  font-family: Filled Icon Brix;
+  src: url("/images/6883a66d1ebb4685edc545e1_filled-icon-brix.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Line Rounded Icon Font Brix;
+  src: url("/images/6883a66d1ebb4685edc545de_line-rounded-icon-font-brix.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Line Squared Icon Font Brix;
+  src: url("/images/6883a66d1ebb4685edc545df_line-squared-icon-font-brix.woff2")
+    format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Nohemi;
+  src: url("/images/69956244ce5367b9f816baaf_Nohemi-Medium.otf")
+    format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Nohemi;
+  src: url("/images/6996aa09fe36d081f949142d_Nohemi-SemiBold.otf")
+    format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Nohemi;
+  src: url("/images/6996df175a3326ef01f6b0fb_Nohemi-Regular.otf")
+    format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: Social Media Icon Font Brix;
+  src: url("/images/6883a66d1ebb4685edc546f3_Social-Media-Icon-Font-Brix.woff")
+    format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
